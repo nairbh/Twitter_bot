@@ -21,7 +21,7 @@ This project is a Python-based bot designed to automatically fetch the latest ne
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/nairbh/Twitter_bot.git
-    cd twitter-news-bot
+    cd twitter_bot
     ```
 
 2. **Install required packages**:
